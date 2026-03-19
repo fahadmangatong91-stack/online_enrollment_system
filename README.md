@@ -185,5 +185,6 @@ http://localhost/online_enrollment_system/test_connection.php
 
 ## Author
 
-Add your name here.
+Fahad Gornez Mangatong
+
 
